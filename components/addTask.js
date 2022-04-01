@@ -60,4 +60,4 @@ export const createTask = ({ value, dateFormat, complete, id }) => {
   task.appendChild(taskContent);
   task.appendChild(deleteIcon(id));
   return task;
-};
+}; 
