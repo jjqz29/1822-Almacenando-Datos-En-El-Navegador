@@ -7,3 +7,4 @@ const btn = document.querySelector('[data-form-btn]');
 btn.addEventListener('click', addTask);
 
 displayTasks();
+ 

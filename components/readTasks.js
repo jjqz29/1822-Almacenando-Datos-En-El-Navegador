@@ -17,5 +17,5 @@ export const displayTasks = () => {
         list.appendChild(createTask(task));
       }
     });
-  });
+  }); 
 };

@@ -16,6 +16,6 @@ const deleteTask = (id) => {
   li.innerHTML = '';
   localStorage.setItem('tasks', JSON.stringify(tasks));
   displayTasks();
-};
+}; 
 
 export default deleteIcon;

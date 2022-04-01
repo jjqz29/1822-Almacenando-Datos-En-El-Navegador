@@ -115,7 +115,7 @@ form {
   z-index: 99;
   width: 100%;
   top: -100px;
-  left: 0;
+  left: 0; 
 }
 .deleteSpace {
   position: relative;
